@@ -1,6 +1,6 @@
-# PCQA_Teste
+# PCQA_Test
 
-O **PCQA_Teste** é um protótipo de pesquisa desenvolvido na _engine_ **Unity** para a **visualização e avaliação subjetiva da qualidade de nuvens de pontos dinâmicas (DPC)** em ambientes de **Realidade Virtual (VR)**. O projeto foi concebido para dar suporte a fluxos experimentais relacionados à **Point Cloud Quality Assessment (PCQA)**, incluindo renderização de nuvens de pontos, sequenciamento de DPCs, interação do usuário e coleta de pontuações subjetivas em um ambiente controlado de VR.
+O **PCQA_Test** é um protótipo de pesquisa desenvolvido na _engine_ **Unity** para a **visualização e avaliação subjetiva da qualidade de nuvens de pontos dinâmicas (DPC)** em ambientes de **Realidade Virtual (VR)**. O projeto foi concebido para dar suporte a fluxos experimentais relacionados à **Point Cloud Quality Assessment (PCQA)**, incluindo renderização de nuvens de pontos, sequenciamento de DPCs, interação do usuário e coleta de pontuações subjetivas em um ambiente controlado de VR.
 
 Este repositório contém a estrutura essencial do projeto Unity necessária para abrir, inspecionar e continuar o desenvolvimento da aplicação experimental.
 
