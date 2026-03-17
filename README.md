@@ -23,7 +23,7 @@ A estrutura atual oferece suporte ao desenvolvimento e à execução de fluxos c
 
 ## Configuração padrão de software
 
-A aplicação foi desenvolvida e configurada com a seguinte pilha de software:
+A aplicação foi desenvolvida e configurada da seguinte forma:
 
 | Software | Versão / Parâmetro |
 |---|---|
