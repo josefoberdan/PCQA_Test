@@ -21,6 +21,39 @@ A estrutura atual oferece suporte ao desenvolvimento e à execução de fluxos c
 
 ---
 
+## Configuração padrão de software
+
+A aplicação foi desenvolvida e configurada com a seguinte pilha de software:
+
+| Software | Versão / Parâmetro |
+|---|---|
+| Unity Engine | 2019.4.40f1 |
+| PCX (https://github.com/keijiro/Pcx) | 0.1.5 |
+| NDK | r16b |
+| SDK | 26.1.1 |
+| JDK | 1.8.0 |
+
+---
+
+## Tutorial para Uso:
+
+**1. Clone o repositório**
+- git clone https://github.com/josefoberdan/PCQA_Test.git
+
+**2. Abra o projeto no Unity Hub**
+
+- Inicie o Unity Hub
+
+- Selecione Open
+
+- Escolha a pasta raiz deste repositório
+
+**3. Utilize a versão correta do Unity**
+
+- Unity 2019.4.40f1
+
+---
+
 ## Estrutura do repositório
 
 ```text
