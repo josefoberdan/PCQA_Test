@@ -8,7 +8,7 @@ Este repositório contém a estrutura essencial do projeto Unity necessária par
 
 ## Objetivo do projeto
 
-O principal objetivo deste projeto é fornecer um ambiente funcional em Unity para experimentos envolvendo a **avaliação subjetiva da qualidade de nuvens de pontos** em realidade virtual.
+O principal objetivo deste projeto é fornecer um ambiente funcional em Unity para experimentos envolvendo a **avaliação subjetiva da qualidade de nuvens de pontos dinâmicas** em realidade virtual.
 
 A estrutura atual oferece suporte ao desenvolvimento e à execução de fluxos como:
 
