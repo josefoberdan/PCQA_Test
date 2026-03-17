@@ -6,20 +6,6 @@ Este repositório contém a estrutura essencial do projeto Unity necessária par
 
 ---
 
-## Contexto de pesquisa
-
-Este projeto foi desenvolvido para apoiar estudos experimentais em VR, permitindo:
-
-- visualização de nuvens de pontos dinâmicas;
-- apresentação controlada de estímulos de teste;
-- interação do usuário em ambientes imersivos;
-- execução de fluxos de avaliação subjetiva da qualidade;
-- integração de scripts e recursos auxiliares para o controle experimental.
-
-O repositório é destinado principalmente a uso **acadêmico, experimental e de pesquisa**.
-
----
-
 ## Objetivo do projeto
 
 O principal objetivo deste projeto é fornecer um ambiente funcional em Unity para experimentos envolvendo a **avaliação subjetiva da qualidade de nuvens de pontos** em realidade virtual.
