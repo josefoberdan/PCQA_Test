@@ -42,15 +42,15 @@ A aplicação foi desenvolvida e configurada da seguinte forma:
 
 **2. Abra o projeto no Unity Hub**
 
-- Inicie o Unity Hub
+- Inicie o Unity Hub;
 
-- Selecione Open
+- Selecione Open;
 
-- Escolha a pasta raiz deste repositório
+- Escolha a pasta raiz deste repositório.
 
 **3. Utilize a versão correta do Unity**
 
-- Unity 2019.4.40f1
+- Unity 2019.4.40f1.
 
 ---
 
