@@ -52,6 +52,18 @@ A aplicação foi desenvolvida e configurada da seguinte forma:
 
 - Unity 2019.4.40f1.
 
+**4. Fluxo de Uso**
+
+- Abrir o projeto Unity com a versão especificada do editor.
+
+- Carregar a cena experimental relevante em Assets/Scenes/.
+
+- Verificar recursos de tempo de execução, scripts e referências de objetos.
+
+- Executar a aplicação no Unity Editor ou gerar uma build para o dispositivo-alvo.
+
+- Utilizar a interface experimental para visualizar as DPCs e coletar respostas subjetivas.
+
 ---
 
 ## Estrutura do repositório
