@@ -8,11 +8,9 @@ Este repositório contém a estrutura essencial do projeto Unity necessária par
 
 ## Contexto de pesquisa
 
-As nuvens de pontos têm sido cada vez mais utilizadas em mídia imersiva, vídeo volumétrico, telepresença e aplicações 6DoF. Nesse contexto, a avaliação da qualidade percebida sob diferentes condições de compressão e renderização constitui um problema relevante de pesquisa.
-
 Este projeto foi desenvolvido para apoiar estudos experimentais em VR, permitindo:
 
-- visualização de conteúdo dinâmico em nuvens de pontos;
+- visualização de nuvens de pontos dinâmicas;
 - apresentação controlada de estímulos de teste;
 - interação do usuário em ambientes imersivos;
 - execução de fluxos de avaliação subjetiva da qualidade;
