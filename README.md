@@ -58,7 +58,7 @@ A aplicação foi desenvolvida e configurada da seguinte forma:
 
 - Carregar a cena experimental relevante em Assets/Scenes/;
 
-- Carregar as DPCs em Assetes/StreamingAssets/PointCloudSequence/;
+- Carregar as DPCs em Assets/StreamingAssets/PointCloudSequence/;
 
 - Verificar recursos de tempo de execução e referências de objetos;
 
