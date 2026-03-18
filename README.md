@@ -67,11 +67,3 @@ A aplicação foi desenvolvida e configurada da seguinte forma:
 - Utilizar a interface experimental para visualizar as DPCs e coletar respostas subjetivas com participantes.
 
 ---
-
-## Estrutura do repositório
-
-```text
-PCQA_Teste/
-├── Assets/
-├── Packages/
-└── ProjectSettings/
