@@ -100,4 +100,4 @@ Caso utilize o **PCQA_Test** em trabalhos acadêmicos, cite a seguinte publicaç
 
 ### Link da publicação
 
-[Perceptual Analysis of Compressed Dynamic Point Clouds in Virtual Reality Environments](https://doi.org/10.5753/semish.2026.22376)
+[Perceptual Analysis of Compressed Dynamic Point Clouds in Virtual Reality Environments](https://doi.org/10.5753/semish.2026.22376](https://sol.sbc.org.br/index.php/semish/article/view/43535)
