@@ -82,7 +82,7 @@ Caso utilize o **PCQA_Test** em trabalhos acadêmicos, cite a seguinte publicaç
                Rehbein, Gustavo and
                Borda, Adriane and
                Porto, Marcelo and
-               Corr{\^e}a, Guilherme},
+               Correa, Guilherme},
   title     = {Perceptual Analysis of Compressed Dynamic Point Clouds
                in Virtual Reality Environments},
   booktitle = {Anais do LIII Semin{\'a}rio Integrado de Software e
