@@ -72,10 +72,21 @@ A aplicação foi desenvolvida e configurada da seguinte forma:
 
 #Citação
 
+## Como citar
+
+Caso utilize o **PCQA_Test** em trabalhos acadêmicos, cite a seguinte publicação:
+
+```bibtex
 @inproceedings{silva2026perceptual,
-  author    = {Silva, Josef Augusto Oberdan Souza and Rehbein, Gustavo and Borda, Adriane and Porto, Marcelo and Corr{\^e}a, Guilherme},
-  title     = {Perceptual Analysis of Compressed Dynamic Point Clouds in Virtual Reality Environments},
-  booktitle = {Anais do LIII Semin{\'a}rio Integrado de Software e Hardware (SEMISH 2026)},
+  author    = {Silva, Josef Augusto Oberdan Souza and
+               Rehbein, Gustavo and
+               Borda, Adriane and
+               Porto, Marcelo and
+               Corr{\^e}a, Guilherme},
+  title     = {Perceptual Analysis of Compressed Dynamic Point Clouds
+               in Virtual Reality Environments},
+  booktitle = {Anais do LIII Semin{\'a}rio Integrado de Software e
+               Hardware (SEMISH 2026)},
   year      = {2026},
   pages     = {494--505},
   publisher = {Sociedade Brasileira de Computa{\c{c}}{\~a}o},
@@ -85,3 +96,8 @@ A aplicação foi desenvolvida e configurada da seguinte forma:
   url       = {https://doi.org/10.5753/semish.2026.22376},
   note      = {Acessado em: 14 ago. 2026}
 }
+```
+
+### Link da publicação
+
+[Perceptual Analysis of Compressed Dynamic Point Clouds in Virtual Reality Environments](https://doi.org/10.5753/semish.2026.22376)
