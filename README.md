@@ -64,6 +64,24 @@ A aplicação foi desenvolvida e configurada da seguinte forma:
 
 - Executar a aplicação no Unity Editor ou gerar uma build para o dispositivo-alvo que estiver usando (ex.: Meta Quest/HTC Vive);
 
+---
+
+@InProce
+
 - Utilizar a interface experimental para visualizar as DPCs e coletar respostas subjetivas com participantes.
 
 ---
+
+@inproceedings{silva2026perceptual,
+  author       = {Silva, Josef Augusto Oberdan Souza and Rehbein, Gustavo and Borda, Adriane and Porto, Marcelo and Corr{\^e}a, Guilherme},
+  title        = {Perceptual Analysis of Compressed Dynamic Point Clouds in Virtual Reality Environments},
+  booktitle    = {Anais do LIII Semin{\'a}rio Integrado de Software e Hardware (SEMISH 2026)},
+  year         = {2026},
+  pages        = {494--505},
+  publisher    = {Sociedade Brasileira de Computador},
+  address      = {Porto Alegre},
+  issn         = {2595-6205},
+  doi          = {10.5753/semish.2026.22376},
+  howpublished = {\url{https://doi.org/10.5753/semish.2026.22376}},
+  note         = {Acessado em: 14 ago. 2026}
+}
