@@ -66,8 +66,6 @@ A aplicação foi desenvolvida e configurada da seguinte forma:
 
 ---
 
-@InProce
-
 - Utilizar a interface experimental para visualizar as DPCs e coletar respostas subjetivas com participantes.
 
 ---
