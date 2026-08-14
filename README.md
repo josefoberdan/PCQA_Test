@@ -1,80 +1,109 @@
 # PCQA_Test
 
-O **PCQA_Test** é um protótipo de pesquisa desenvolvido na _engine_ **Unity** para a **visualização e avaliação subjetiva da qualidade de nuvens de pontos dinâmicas (DPC)** em ambientes de **Realidade Virtual (VR)**. O projeto foi concebido para dar suporte a fluxos experimentais relacionados à **Point Cloud Quality Assessment (PCQA)**, incluindo renderização de nuvens de pontos, sequenciamento de DPCs, interação do usuário e coleta de pontuações subjetivas em um ambiente controlado de VR.
+**PCQA_Test** is a research prototype developed using the **Unity Engine** for the **visualization and subjective quality assessment of Dynamic Point Clouds (DPCs)** in **Virtual Reality (VR)** environments.
 
-Este repositório contém a estrutura essencial do projeto Unity necessária para abrir, inspecionar e continuar o desenvolvimento da aplicação experimental.
+The project was designed to support experimental workflows related to **Point Cloud Quality Assessment (PCQA)**, including point cloud rendering, DPC sequence playback, user interaction, and subjective score collection in a controlled VR environment.
 
----
-
-## Objetivo do projeto
-
-O principal objetivo deste projeto é fornecer um ambiente funcional em Unity para experimentos envolvendo a **avaliação subjetiva da qualidade de nuvens de pontos dinâmicas** em realidade virtual.
-
-A estrutura atual oferece suporte ao desenvolvimento e à execução de fluxos como:
-
-- carregamento e renderização de nuvens de pontos;
-- apresentação visual de sequências de nuvens de pontos;
-- controle de cenas experimentais;
-- votação e coleta de respostas;
-- interação em tempo de execução e manipulação de interface;
-- gerenciamento de assets, shaders e configurações relacionadas à VR.
+This repository contains the essential Unity project structure required to open, inspect, run, and continue developing the experimental application.
 
 ---
 
-## Configuração padrão de software
+## Project Objective
 
-A aplicação foi desenvolvida e configurada da seguinte forma:
+The main objective of this project is to provide a functional Unity environment for experiments involving the **subjective quality assessment of dynamic point clouds** in virtual reality.
 
-| Software | Versão / Parâmetro |
-|---|---|
+The current project structure supports the development and execution of workflows involving:
+
+- point cloud loading and rendering;
+- visual presentation of point cloud sequences;
+- experimental scene control;
+- voting and response collection;
+- runtime interaction and user interface management;
+- management of assets, shaders, and VR-related settings.
+
+---
+
+## Default Software Configuration
+
+The application was developed and configured using the following software and versions:
+
+| Software or Component | Version / Parameter |
+|---|---:|
 | Unity Engine | 2019.4.40f1 |
-| PCX (https://github.com/keijiro/Pcx) | 0.1.5 |
-| NDK | r16b |
-| SDK | 26.1.1 |
+| [Pcx](https://github.com/keijiro/Pcx) | 0.1.5 |
+| Android NDK | r16b |
+| Android SDK | 26.1.1 |
 | JDK | 1.8.0 |
 
----
-
-## Tutorial para Uso:
-
-**1. Clone o repositório**
-- git clone https://github.com/josefoberdan/PCQA_Test.git
-
-**2. Abra o projeto no Unity Hub**
-
-- Inicie o Unity Hub;
-
-- Selecione Open;
-
-- Escolha a pasta raiz deste repositório.
-
-**3. Utilize a versão correta do Unity**
-
-- Unity 2019.4.40f1.
-
-**4. Fluxo de Uso**
-
-- Abrir o projeto Unity com a versão especificada do editor;
-
-- Carregar a cena experimental relevante em Assets/Scenes/;
-
-- Carregar as DPCs em Assets/StreamingAssets/PointCloudSequence/;
-
-- Verificar recursos de tempo de execução e referências de objetos;
-
-- Executar a aplicação no Unity Editor ou gerar uma build para o dispositivo-alvo que estiver usando (ex.: Meta Quest/HTC Vive);
+> **Important:** Use **Unity 2019.4.40f1** to reduce the risk of incompatibilities with the project's packages, scripts, shaders, and settings.
 
 ---
 
-- Utilizar a interface experimental para visualizar as DPCs e coletar respostas subjetivas com participantes.
+## Usage Tutorial
+
+### 1. Clone the Repository
+
+Run the following command in a terminal:
+
+```bash
+git clone https://github.com/josefoberdan/PCQA_Test.git
+```
+
+Then access the project directory:
+
+```bash
+cd PCQA_Test
+```
+
+### 2. Open the Project in Unity Hub
+
+1. Start **Unity Hub**.
+2. Select **Open** or **Add project from disk**.
+3. Select the root directory of the cloned repository.
+4. Open the project using **Unity 2019.4.40f1**.
+
+### 3. Prepare the Experiment
+
+1. Open the relevant experimental scene from:
+
+   ```text
+   Assets/Scenes/
+   ```
+
+2. Add or organize the DPC sequences in:
+
+   ```text
+   Assets/StreamingAssets/PointCloudSequence/
+   ```
+
+3. Check all runtime resources and object references in the Unity **Inspector**.
+4. Verify the scripts, user interface components, assets, shaders, and VR settings required by the experiment.
+
+### 4. Run the Application
+
+The application can be:
+
+- executed directly in the Unity Editor;
+- compiled for the target VR device;
+- deployed to compatible devices such as the **Meta Quest** or **HTC Vive**.
+
+Before building the application, ensure that the packages, drivers, and platform-specific settings required by the target device are correctly configured.
+
+### 5. Conduct the Experiment
+
+Use the experimental interface to:
+
+1. load the DPC sequence;
+2. present the visual stimulus to the participant;
+3. allow the participant to inspect the dynamic point cloud in VR;
+4. collect the participant's subjective quality score;
+5. continue the process according to the configured experimental sequence.
 
 ---
 
-#Citação
+## Citation
 
-## Como citar
-
-Caso utilize o **PCQA_Test** em trabalhos acadêmicos, cite a seguinte publicação:
+If you use **PCQA_Test** in an academic study, please cite the following publication:
 
 ```bibtex
 @inproceedings{silva2026perceptual,
@@ -82,7 +111,7 @@ Caso utilize o **PCQA_Test** em trabalhos acadêmicos, cite a seguinte publicaç
                Rehbein, Gustavo and
                Borda, Adriane and
                Porto, Marcelo and
-               Correa, Guilherme},
+               Corr{\^e}a, Guilherme},
   title     = {Perceptual Analysis of Compressed Dynamic Point Clouds
                in Virtual Reality Environments},
   booktitle = {Anais do LIII Semin{\'a}rio Integrado de Software e
@@ -94,10 +123,16 @@ Caso utilize o **PCQA_Test** em trabalhos acadêmicos, cite a seguinte publicaç
   issn      = {2595-6205},
   doi       = {10.5753/semish.2026.22376},
   url       = {https://doi.org/10.5753/semish.2026.22376},
-  note      = {Acessado em: 14 ago. 2026}
+  note      = {Accessed on: August 14, 2026}
 }
 ```
 
-### Link da publicação
+### Publication Link
 
 [Perceptual Analysis of Compressed Dynamic Point Clouds in Virtual Reality Environments](https://sol.sbc.org.br/index.php/semish/article/view/43535)
+
+---
+
+## Related Resources
+
+- [Pcx — Point Cloud Importer and Renderer for Unity](https://github.com/keijiro/Pcx)
